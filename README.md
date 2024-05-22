@@ -1,5 +1,5 @@
 # PSP-DS
-Source code and data set for the paper"Few-Shot Unseen Defect Segmentation for Polycrystalline Silicon Panels with An Interpretable Dual Subspace Attention Variational Learning Framework"
+Source code and dataset for the paper"Few-Shot Unseen Defect Segmentation for Polycrystalline Silicon Panels with An Interpretable Dual Subspace Attention Variational Learning Framework" in Advanced Engineering Informatics.
 
 System:
 <div align="center">
@@ -11,4 +11,7 @@ Method:
   <img src="https://github.com/hmyao22/PSP-DS/blob/main/Figure2.png">
 </div>
 
-comming soon!
+If you think this repo or dataset is useful, please cite our paper. Please note that the presented dataset is only available for academic research. 
+
+
+For any questions please contact:yhm22@mails.tsinghua.edu.cn(Mr.Yao), ywy@hust.edu.cn(Prof.Yu)
