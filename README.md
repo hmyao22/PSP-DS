@@ -16,6 +16,6 @@ If you think this repo or dataset is useful, please cite our paper. Please note 
 
 
 # Acknowledgments
-
+We are grateful for the implementation of the relevant methods used in this repository.
 # Contact information 
 For any questions please contact:yhm22@mails.tsinghua.edu.cn(Mr.Yao), ywy@hust.edu.cn(Prof.Yu)
